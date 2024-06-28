@@ -1,2 +1,2 @@
 # testrepo
-A test repository for Data Science projects
+A test repository for **Data Science** projects
